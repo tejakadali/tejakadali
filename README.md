@@ -3,6 +3,9 @@
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-TejaKadali-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ksteja/)](https://www.linkedin.com/in/ksteja/)
+[![Instagram Badge](https://img.shields.io/badge/-TejaKadali-8a3ab9?style=flat-square&logo=instagram&logoColor=white&link=https://www.linkedin.com/in/tej_218/)](https://www.instagram.com/tej_218/)
+
+
 
 ###### Technologies
 
@@ -10,6 +13,8 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=flat-square&logo=typescript)
 ![npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Angular](https://img.shields.io/badge/-Angular-red?style=flat-square&logo=angular)
+![JQuery](https://img.shields.io/badge/-Jquery-blue?style=flat-square&logo=jquery)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
