@@ -21,6 +21,13 @@
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 
 
+###### Design Tools
+
+![Adobe Photoshop](https://img.shields.io/badge/-AdobePhotoshop-000?style=flat-square&logo=adobe-photoshop)
+![Adobe Illustrator](https://img.shields.io/badge/-AdobeIllustrator-000?style=flat-square&logo=adobe-illustrator)
+![Adobe XD](https://img.shields.io/badge/-AdobeXd-000?style=flat-square&logo=adobe-xd)
+![Sketch](https://img.shields.io/badge/-Sketch-black?style=flat-square&logo=sketch)
+
 
 ## Stats
 
