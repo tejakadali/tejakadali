@@ -2,8 +2,9 @@
 
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-TejaKadali-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ksteja/)](https://www.linkedin.com/in/ksteja/)
-[![Instagram Badge](https://img.shields.io/badge/-TejaKadali-8a3ab9?style=flat-square&logo=instagram&logoColor=white&link=https://www.linkedin.com/in/tej_218/)](https://www.instagram.com/tej_218/)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ksteja/)](https://www.linkedin.com/in/ksteja/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-8a3ab9?style=flat-square&logo=instagram&logoColor=white&link=https://www.linkedin.com/in/tej_218/)](https://www.instagram.com/tej_218/)
+[![Behance Badge](https://img.shields.io/badge/-Behance-4b4b4b?style=flat-square&logo=behance&logoColor=white&link=https://www.behance.net/kstejas)](https://www.behance.net/kstejas)
 
 
 
