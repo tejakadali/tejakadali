@@ -37,7 +37,7 @@
 
 ## Stats
 
-![Tejas's github stats](https://github-readme-stats.vercel.app/api?username=tejakadali&show_icons=true&theme=merko)
+ <!--- ![Tejas's github stats](https://github-readme-stats.vercel.app/api?username=tejakadali&show_icons=true&theme=merko) --->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tejakadali&hide=ShaderLab,ASP&layout=compact&theme=dracula)
 
