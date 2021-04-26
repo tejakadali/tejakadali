@@ -19,6 +19,7 @@
 ![JQuery](https://img.shields.io/badge/-Jquery-blue?style=flat-square&logo=jquery)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![POSTCSS](https://img.shields.io/badge/-PostCSS-DD3A0A?style=flat-square&logo=postcss)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -41,10 +42,10 @@
 
 ###### Design Tools
 
-![Adobe Photoshop](https://img.shields.io/badge/-Adobe&nbsp;Photoshop-000?style=flat-square&logo=adobe-photoshop)
-![Adobe Illustrator](https://img.shields.io/badge/-Adobe&nbsp;Illustrator-000?style=flat-square&logo=adobe-illustrator)
-![Adobe XD](https://img.shields.io/badge/-Adobe&nbsp;XD-000?style=flat-square&logo=adobe-xd)
-![Sketch](https://img.shields.io/badge/-Sketch-black?style=flat-square&logo=sketch)
+![Adobe Photoshop](https://img.shields.io/badge/-Adobe&nbsp;Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/-Adobe&nbsp;Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/-Adobe&nbsp;XD-FF61F6?style=flat-square&logo=adobe-xd&logoColor=white)
+![Sketch](https://img.shields.io/badge/-Sketch-F7B500?style=flat-square&logo=sketch&logoColor=white)
 
 
 ## Stats
