@@ -8,12 +8,13 @@
 
 
 
-###### Technologies
+###### Technologies / Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=Redux&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![AngularJS](https://img.shields.io/badge/-AngularJS-E23237?style=flat-square&logo=angularjs&logoColor=white)
 ![JQuery](https://img.shields.io/badge/-Jquery-blue?style=flat-square&logo=jquery)
@@ -34,6 +35,7 @@
 ![ExpressJs](https://img.shields.io/badge/-ExpressJs-black?style=flat-square&logo=express)
 ![SocketIo](https://img.shields.io/badge/-Socket.io-black?style=flat-square&logo=socket.io)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white)
 
 ![Aws](https://img.shields.io/badge/-Amazon&nbsp;AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Pm2](https://img.shields.io/badge/-PM2-2B037A?style=flat-square&logo=pm2&logoColor=white)
