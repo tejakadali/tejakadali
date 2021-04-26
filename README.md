@@ -50,9 +50,3 @@
 ![Sketch](https://img.shields.io/badge/-Sketch-F7B500?style=flat-square&logo=sketch&logoColor=white)
 
 
-## Stats
-
- <!--- ![Tejas's github stats](https://github-readme-stats.vercel.app/api?username=tejakadali&show_icons=true&theme=merko) --->
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tejakadali&hide=ShaderLab,ASP&layout=compact&theme=dracula)
-
